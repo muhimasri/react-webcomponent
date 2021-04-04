@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Web Components and React Hooks
+
+An example code for making a Web Component input element work with React Hooks. Please refer to [this article](https://muhimasri.com/blogs/web-components-with-react-hooks/) for a thorough explanation.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
