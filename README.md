@@ -1,4 +1,4 @@
-# Web Components and React Hooks
+# Web Components and React Hooks Example
 
 An example code for making a Web Component input element work with React Hooks. Please refer to [this article](https://muhimasri.com/blogs/web-components-with-react-hooks/) for a thorough explanation.
 
